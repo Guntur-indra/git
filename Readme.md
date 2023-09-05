@@ -1,9 +1,8 @@
-konflik main
+konflik
+# konflik
 
-# konflik child
 
+# konfli
 
-# konflik 2
-
-# konflik 3
+# konfli
 
