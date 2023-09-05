@@ -1,6 +1,6 @@
 konflik main
 
-# konflik child 2
+# konflik child 2 qgwww
 
 
 # konflik  main
